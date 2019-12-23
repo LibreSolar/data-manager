@@ -12,6 +12,12 @@ K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
 F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
 $ENDCMP
 #
+$CMP SI8621AB
+D Low Power Dual-Channel 1/1 Digital Isolator, 1Mbps, 35ns, SO8
+K 2Ch Dual Digital Isolator
+F https://www.silabs.com/documents/public/data-sheets/si86xx-1Mbps-datasheet.pdf
+$ENDCMP
+#
 $CMP UEXT
 D Olimex UEXT connector (2x5 box header)
 $ENDCMP

@@ -1,11 +1,13 @@
 # Data Manager for Libre Solar devices
 
-Designed with KiCad 5.
+![Data Manager PCB](data-manager.jpg)
+
+Firmware: [LibreSolar/data-manager-firmware](https://github.com/LibreSolar/data-manager-firmware) repository
 
 ## Features
 
 - ESP32 WROOM board for WiFi and Bluetooth connection
-- USB Micro-B power supply
-- SD-card
+- USB Micro-B power supply and debug serial
+- microSD card slot
 - LS.one interface (UART serial)
 - LS.bus interface (CAN)
