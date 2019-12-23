@@ -1,8 +1,12 @@
 # Data Manager for Libre Solar devices
 
+![Development Stage](https://img.shields.io/badge/development%20stage-beta-orange.svg) Prototype built, development and testing ongoing (especially firmware).
+
 ![Data Manager PCB](data-manager.jpg)
 
-Firmware: [LibreSolar/data-manager-firmware](https://github.com/LibreSolar/data-manager-firmware) repository
+Schematic: [PDF file](data-manager.pdf)
+
+Firmware repository: [LibreSolar/data-manager-firmware](https://github.com/LibreSolar/data-manager-firmware)
 
 ## Features
 
@@ -11,3 +15,4 @@ Firmware: [LibreSolar/data-manager-firmware](https://github.com/LibreSolar/data-
 - microSD card slot
 - LS.one interface (UART serial)
 - LS.bus interface (CAN)
+- Suitable housing: Hammond Mfg. 1591XXAFLBK
